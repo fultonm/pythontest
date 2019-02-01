@@ -1,4 +1,5 @@
 print("hello")
 print("welcome")
-print("to")
+for i in range(0,100):
+    print("to")
 print("huscii")
